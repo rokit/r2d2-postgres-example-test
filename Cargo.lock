@@ -489,6 +489,7 @@ name = "r2test"
 version = "0.1.0"
 dependencies = [
  "postgres 0.17.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "r2d2 0.8.7 (registry+https://github.com/rust-lang/crates.io-index)",
  "r2d2_postgres 0.16.0 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
